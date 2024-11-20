@@ -26,6 +26,7 @@ public class GameController : ControllerBase
 
     [HttpGet]
     [Route("games")]
+    // for the games
     public async Task<ActionResult> GetAllGames()
     {
         return Ok(await _mediator.Send(new GetGamesInformationCommand()));
