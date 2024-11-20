@@ -1,5 +1,5 @@
 ﻿using Domain.CardGamesGuruMiniApp.Entities.TodEntities;
-
+// services of the bot codebase
 namespace Services.CardGamesGuruMiniApp.Services.TodService.Interfaces
 {
     public interface ITodService
