@@ -6,8 +6,6 @@ The main purpose of this MiniApp is a collection of a certain number of simple c
 
 **[Link to the Bot.](https://t.me/CardGamesGuru_Bot)**
 
-> The app was written for a Telegram contest.  **[Contest](https://t.me/contest/327)**
-
 # Games are implemented in mini-app
 ### This Or That
 What Is "This or That"? This or That is an easy-to-play word game in which you must choose between two things. These two options could be funny, mundane, or totally outrageous. Even if neither option appeals to you, you have to choose one or the other.
@@ -91,5 +89,3 @@ We have an application running on a local machine that can only be accessed from
 To see all possible API requests and contracts, you can use Swagger.
 
 Just add ``/swagger`` to the end: ``https://localhost:5001/swagger``
-
-Other information about mini-app on Wiki: **[CardGamesGuruMiniApp Wiki](https://github.com/Alkamal30/CardGamesGuruMiniApp/wiki)** 
